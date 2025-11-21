@@ -28,34 +28,34 @@ This project highlights essential SQL techniques used in real retail analysis, f
 ## Business Questions & Insights
 
 1. **Which country orders the most products?**  
-   USA has the highest number of orders.
+   **Answer:** USA has the highest number of orders.
 
 2. **Which country generates the most revenue?**  
-   USA contributes the highest total sales.
+   **Answer:** USA contributes the highest total sales.
 
 3. **Which product categories sell the most?**  
-   Classic Cars, Motorcycles, and Trucks & Buses are the top-selling categories.
+   **Answer:** Classic Cars, Motorcycles, and Trucks & Buses are the top-selling categories.
 
 4. **How do sales change month by month?**  
-   Sales increase in summer (June–August) and peak in December.
+   **Answer:** Sales increase in summer (June–August) and peak in December.
 
 5. **Which order status occurs most frequently?**  
-   Most orders are “Shipped”, followed by “Pending” and “Cancelled”.
+   **Answer:** Most orders are “Shipped”, followed by “Pending” and “Cancelled”.
 
 6. **What is the average order size per product category?**  
-   Motorcycles have the largest average order size, followed by Classic Cars.
+   **Answer:** Motorcycles have the largest average order size, followed by Classic Cars.
 
 7. **Which product categories are most profitable?**  
-   Classic Cars and Motorcycles generate the highest profit; Ships and Trains generate the least.
+   **Answer:** Classic Cars and Motorcycles generate the highest profit; Ships and Trains generate the least.
 
 8. **Who are the top customers by spending?**  
-   Diego Freyre, Valarie Nelson, Peter Ferguson, and a few others are the top spenders.
+   **Answer:** Diego Freyre, Valarie Nelson, Peter Ferguson, and a few others are the top spenders.
 
 9. **What is the company’s overall profit margin?**  
-   Approximately 7.38% (total profit: 20,939.94).
+   **Answer:** Approximately 7.38% (total profit: 20,939.94).
 
 10. **Are there any categories where cost exceeds revenue?**  
-    No, all categories are profitable with cost lower than the unit price.
+    **Answer:** No, all categories are profitable with cost lower than the unit price.
 
 
 ## Tools & Technologies
