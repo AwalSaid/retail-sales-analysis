@@ -6,3 +6,9 @@ This project highlights essential SQL techniques used in real retail analysis, f
 **Level:** Beginner to Intermediate  
 **Database:** sales_analysis  
 
+## Project Objectives
+- **Build a retail sales database** that organizes sales, products, and customer information efficiently.
+- **Clean and preprocess the data** to make it accurate and ready for analysis.
+- **Perform exploratory data analysis (EDA)** to identify trends, patterns, and anomalies in retail sales.
+- **Write SQL queries to answer business questions**, such as top-selling products, store performance, and customer behavior.
+
