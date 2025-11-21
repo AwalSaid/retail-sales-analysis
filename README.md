@@ -23,15 +23,43 @@ This project highlights essential SQL techniques used in real retail analysis, f
 ## Dataset Description
 - Retail sales data including sales, products, and customer information.
 - Format: CSV / SQL tables
-- Rows: ~10,000, Columns: 8
+- Rows: ~3000, Columns: 17
 
 ## Business Questions & Insights
-1. **Which products are the top sellers?**  
-   Top 5 products contributed 40% of total sales.
-2. **Which stores perform best?**  
-   Store A consistently outperformed others.
-3. **What is customer purchase behavior?**  
-   Customers buy small quantities but frequently.
+/* -------------------------------------------------------
+   5. BUSINESS KEY PROBLEMS & ANSWERS (Q&A)
+   -------------------------------------------------------
+
+Q1. Which country orders the most stuff?
+Answer: USA has the most orders.
+
+Q2. Which country makes the most money for us?
+Answer: USA brings the highest total sales.
+
+Q3. Which product categories sell the most?
+Answer: Classic Cars, Motorcycles, and Trucks & Buses sell the most.
+
+Q4. How do sales change month by month?
+Answer: Sales go up in summer (June–Aug) and peak in December.
+
+Q5. Which order status happens the most?
+Answer: Most orders are “Shipped”, then “Pending” and “Cancelled”.
+
+Q6. What’s the average order size per product category?
+Answer: Motorcycles have the biggest average order size, then Classic Cars.
+
+Q7. Which product categories make the most profit?
+Answer: Classic Cars and Motorcycles make the most, Ships and Trains make the least.
+
+Q8. Who are the top customers who spend the most?
+Answer: Diego Freyre, Valarie Nelson, Peter Ferguson and some others spend the most money.
+
+Q9. What’s the company’s overall profit margin?
+Answer: Around 7.38% (20939.94) is overall profit margin.
+
+Q10. Are there any categories where cost is more than revenue?
+Answer: No, all categories have cost lower than unit price, so everything is profitable.
+*/
 
 ## Tools & Technologies
 - MySQL
