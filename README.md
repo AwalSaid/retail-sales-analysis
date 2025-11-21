@@ -13,12 +13,11 @@ This project highlights essential SQL techniques used in real retail analysis, f
 - **Write SQL queries to answer business questions**, such as top-selling products, store performance, and customer behavior.
 
 ## Project Structure
-## Project Structure
 - [dataset/](dataset/) - Contains the retail sales datasets:
   - [retail_sales_raw.csv](dataset/retail_sales_raw.csv)  Original raw dataset.
   - [retail_sales_clean.csv](dataset/retail_sales_clean.csv)  Cleaned and preprocessed dataset.
 - [retail_sales_analysis_queries.sql](retail_sales_analysis_queries.sql)  SQL queries used for analysis.
-- [README.md](README.md) Detailed project documentation and instructions.
+- [README.md](README.md) Detailed documentation and instructions for this project.
 
 
 
