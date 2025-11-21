@@ -26,40 +26,37 @@ This project highlights essential SQL techniques used in real retail analysis, f
 - Rows: ~3000, Columns: 17
 
 ## Business Questions & Insights
-/* -------------------------------------------------------
-   5. BUSINESS KEY PROBLEMS & ANSWERS (Q&A)
-   -------------------------------------------------------
 
-Q1. Which country orders the most stuff?
-Answer: USA has the most orders.
+1. **Which country orders the most products?**  
+   USA has the highest number of orders.
 
-Q2. Which country makes the most money for us?
-Answer: USA brings the highest total sales.
+2. **Which country generates the most revenue?**  
+   USA contributes the highest total sales.
 
-Q3. Which product categories sell the most?
-Answer: Classic Cars, Motorcycles, and Trucks & Buses sell the most.
+3. **Which product categories sell the most?**  
+   Classic Cars, Motorcycles, and Trucks & Buses are the top-selling categories.
 
-Q4. How do sales change month by month?
-Answer: Sales go up in summer (June–Aug) and peak in December.
+4. **How do sales change month by month?**  
+   Sales increase in summer (June–August) and peak in December.
 
-Q5. Which order status happens the most?
-Answer: Most orders are “Shipped”, then “Pending” and “Cancelled”.
+5. **Which order status occurs most frequently?**  
+   Most orders are “Shipped”, followed by “Pending” and “Cancelled”.
 
-Q6. What’s the average order size per product category?
-Answer: Motorcycles have the biggest average order size, then Classic Cars.
+6. **What is the average order size per product category?**  
+   Motorcycles have the largest average order size, followed by Classic Cars.
 
-Q7. Which product categories make the most profit?
-Answer: Classic Cars and Motorcycles make the most, Ships and Trains make the least.
+7. **Which product categories are most profitable?**  
+   Classic Cars and Motorcycles generate the highest profit; Ships and Trains generate the least.
 
-Q8. Who are the top customers who spend the most?
-Answer: Diego Freyre, Valarie Nelson, Peter Ferguson and some others spend the most money.
+8. **Who are the top customers by spending?**  
+   Diego Freyre, Valarie Nelson, Peter Ferguson, and a few others are the top spenders.
 
-Q9. What’s the company’s overall profit margin?
-Answer: Around 7.38% (20939.94) is overall profit margin.
+9. **What is the company’s overall profit margin?**  
+   Approximately 7.38% (total profit: 20,939.94).
 
-Q10. Are there any categories where cost is more than revenue?
-Answer: No, all categories have cost lower than unit price, so everything is profitable.
-*/
+10. **Are there any categories where cost exceeds revenue?**  
+    No, all categories are profitable with cost lower than the unit price.
+
 
 ## Tools & Technologies
 - MySQL
