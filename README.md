@@ -15,10 +15,10 @@ This project highlights essential SQL techniques used in real retail analysis, f
 ## Project Structure
 ## Project Structure
 - [dataset/](dataset/) - Contains the retail sales datasets:
-  - [retail_sales_raw.csv](dataset/retail_sales_raw.csv) - Original raw dataset.
-  - [retail_sales_clean.csv](dataset/retail_sales_clean.csv) - Cleaned and preprocessed dataset.
-- [retail_sales_analysis_queries.sql](retail_sales_analysis_queries.sql) - SQL queries used for analysis.
-- [README.md](README.md) - This file.
+  - [retail_sales_raw.csv](dataset/retail_sales_raw.csv)  Original raw dataset.
+  - [retail_sales_clean.csv](dataset/retail_sales_clean.csv)  Cleaned and preprocessed dataset.
+- [retail_sales_analysis_queries.sql](retail_sales_analysis_queries.sql)  SQL queries used for analysis.
+- [README.md](README.md) Detailed project documentation and instructions.
 
 
 
