@@ -62,9 +62,10 @@ This project highlights essential SQL techniques used in real retail analysis, f
 ## Tools & Technologies
 - MySQL
 - SQL Workbench / VS Code
-- Optional: Excel or visualization tools
+- Optional: Excel for data cleaning.
 
 ## How to Run
-1. Load the SQL files in your MySQL environment.
-2. Execute queries in the order documented in `sql_scripts/`.
-3. Check `reports/` folder for outputs and results.
+1. Load the SQL files in your MySQL environment from the [`retail_sales_analysis_queries/`](retail_sales_analysis_queries/) folder.
+2. Execute queries in the order documented in [`sql_scripts/`](sql_scripts/).
+3. Check the [`reports/`](reports/) folder for outputs and results.
+
