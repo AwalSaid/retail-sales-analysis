@@ -67,6 +67,7 @@ This project highlights essential SQL techniques used in real retail analysis, f
 ## How to Run
 1. Download the datasets from the [`dataset/`](dataset/) folder.
 2. Load the SQL queries from [`retail_sales_analysis_queries.sql`](retail_sales_analysis_queries.sql) into your MySQL environment.
-3. Execute the queries in the order they are documented.
-4. Review the results directly in MySQL or export them for further analysis.
+3. If you get any errors while importing the [`retail_sales_analysis_queries.sql`](retail_sales_analysis_queries.sql) then just opne that file in notepad and copy the code and use it.
+4. Execute the queries in the order they are documented.
+5. Review the results directly in MySQL or export them for further analysis.
 
